@@ -1,18 +1,18 @@
-# hudai_git
+## Some Public Drive Link
 
 > Mega
 
 https://mega.nz/folder/VQpnEZbJ#xtzB9q8GZSHQKDo0ZCa1aQ
 
->Drive
+> Drive [Local Disk (A:)]
 
 https://drive.google.com/drive/folders/1_VfhCWxtjY6c8xQG_WRg-0WfQMjjd51S
 
->Android File Host
+> Android File Host
 
 https://androidfilehost.com/?w=files&flid=329730
 
->Mega Upload
+> Mega Upload
 
-https://mega.nz/megadrop/EOJfbqXMkfI
+https://mega.nz/megadrop/q-16RiPBwzk
 
