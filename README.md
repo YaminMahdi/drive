@@ -4,9 +4,13 @@
 
 https://mega.nz/folder/VQpnEZbJ#xtzB9q8GZSHQKDo0ZCa1aQ
 
-> Drive [Local Disk (A:)]
+> Drive [Certificate]
 
-https://drive.google.com/drive/folders/15Cqr0c_-e4In48qBO1A8N_DLQ8MMecc-?fbclid=IwAR23kmBgFIG23IlH4_cuklXQ0RrRWlfGqmbDvrfNfCsbIjhLAaiLFhU3nTU
+https://drive.google.com/drive/folders/1kVpJ7e6PS3RqCwfQ0OZire4WEDdYAjAu
+
+> Drive [Certificate]
+
+https://drive.google.com/drive/folders/1wEQO7Ys16Z2APUp-IKDuoVDLY2aw9imb
 
 > Android File Host
 
